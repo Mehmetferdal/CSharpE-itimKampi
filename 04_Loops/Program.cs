@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace o4_Loops
+namespace _04_Loops
 {
     internal class Program
     {
@@ -156,7 +156,7 @@ namespace o4_Loops
 
             #region Örnek Sınav Sorusu
 
-            // Klavyeden Gİrilen 3 basamaklı sayının basamakları toplamı hesaplayan kodu yazınız
+            //Klavyeden Gİrilen 3 basamaklı sayının basamakları toplamı hesaplayan kodu yazınız
             //456
 
             //Console.Write("Sayıyı Giriniz: ");
@@ -180,8 +180,7 @@ namespace o4_Loops
 
             #endregion
 
-            Console.Read();
-
+            //Console.Read();
         }
     }
 }

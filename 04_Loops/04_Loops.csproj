@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{03681D47-9B4E-4877-99BA-8BFA89D7279B}</ProjectGuid>
+    <ProjectGuid>{7F0EEA6E-8DB4-4133-B2C3-802E0BC41EB0}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>o4_Loops</RootNamespace>
-    <AssemblyName>o4_Loops</AssemblyName>
+    <RootNamespace>_04_Loops</RootNamespace>
+    <AssemblyName>04_Loops</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
