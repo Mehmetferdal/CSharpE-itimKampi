@@ -28,3 +28,5 @@ Bu projede, Foreach kullanırak bi sınav yapısı sitemi kurduk. bütün öğre
 Proje 8: Geriye Değer Döndüren Fonksiyonlar
 Geriye değer döndüren ve döndürmeyen metotlar ile ilgili projeler yaptım.
 
+Proje 9: Sql veritabanı
+BU derste MsSql veritabanı veritipleri veri ekleme gibi işlemleri öğrendim
