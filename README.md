@@ -26,5 +26,5 @@ Proje 7: Foreach Döngüsü ve Sınav Sistemi
 Bu projede, Foreach kullanırak bi sınav yapısı sitemi kurduk. bütün öğrenilenleri tüm sistemin içinde kullandık
 
 Proje 8: Geriye Değer Döndüren Fonksiyonlar
-Geriye değer döndüren ve döndürmeyen metotlar ile ilgili projeler yaptım. 🎗️
+Geriye değer döndüren ve döndürmeyen metotlar ile ilgili projeler yaptım.
 
